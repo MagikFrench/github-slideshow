@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Ceci est un test pour apprendre à se servir de github
+Franchement je m'en sors bien non ? ✌🏻
 Use the left arrow to go back!
